@@ -10,7 +10,6 @@
             "Hello My name is Benz.
             I live in the Bay Area, California"
             <img src="Benz proflie.JPG"/>
-
         </p>
     </body>
 </html>
